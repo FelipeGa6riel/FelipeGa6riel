@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #EB9326">Felipe Gabriel</h1>
 
 <div style="display:flex; width: 100%; justify-content: center;">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Nunca+me+diga+as+probabilidades!;Never+tell+me+the+odds!&center=true&vCenter=true&color=EB9326&pause=1000&width=435" alt="Typing SVG" />
   </a>
 </div>
